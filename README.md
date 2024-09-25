@@ -1,1 +1,1 @@
-# Modelos-de-Processo-Threads-vs.-processos-em-sistemas-distribu-dos
+# Modelos-de-Processo-Threads-vs-Processos-em-sistemas-distribudos
